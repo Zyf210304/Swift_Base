@@ -80,3 +80,6 @@ print(city.0, city.1)
 //分解元组
 var (cityName, code) = city
 print(name, code)
+
+
+//https://github.com/Zyf210304/Swift_Base/blob/main/Swift_Base.swiftpm/Swift%20基本数据类型.playground/Contents.swift
