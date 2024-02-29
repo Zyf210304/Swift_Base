@@ -118,3 +118,5 @@ var lowercase = "HELLO, word".lowercased()
 //检查前后缀
 var hasPrefix = uppercase.hasPrefix("he")
 var hasSuffix = lowercase.hasSuffix("rd")
+
+
