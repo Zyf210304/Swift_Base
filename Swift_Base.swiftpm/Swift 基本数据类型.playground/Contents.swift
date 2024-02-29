@@ -13,6 +13,7 @@ var floatNumber3: Float = 0x2p2 //16进制中，p表示2的n次方，2 * (2^3) =
 var boolValue = true
 
 //4.可选值 Optional
+//对普通类型进行 Optional 包装，实现对空值情况的监控
 var opt:String? = "Hangzhou"
 //var obj:String?
 if let temp = opt {
@@ -39,7 +40,8 @@ var opt5:Int
 opt5 = 5
 print(opt5 + 2)
 
-//4 类型别名
+//5 类型别名
+//类型别名，灵活使用可以优化代码的可读性
 typealias nsString = String
 var name: nsString = "张三"
 print(name)
@@ -62,3 +64,19 @@ var type_10 = 3
 // 十六进制
 var type_16 = 0x04
 print(type_2, type_8 , type_10, type_16)
+
+
+//6 元组
+//允许不相关的类型自由组合为新的集合类型
+
+//定义元组
+var person:(name: String, age: Int) = ("zhangsan", 19)
+print("name:", person.name,", age:", person.age)
+
+//元组不指定参数名称 只指定类型
+var city:(String, Int) = ("杭州", 11)
+print(city.0, city.1)
+
+//分解元组
+var (cityName, code) = city
+print(name, code)
