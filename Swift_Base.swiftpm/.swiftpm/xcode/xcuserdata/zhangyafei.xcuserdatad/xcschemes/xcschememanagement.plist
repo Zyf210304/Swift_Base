@@ -151,6 +151,27 @@
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
+		<key>Swift 高级运算符(溢出  重载 自定义) (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
+		<key>Swift 高级运算符(溢出  重载 自定义) (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
+		<key>Swift 高级运算符(溢出  重载 自定义) (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
 		<key>Swift_Base.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
