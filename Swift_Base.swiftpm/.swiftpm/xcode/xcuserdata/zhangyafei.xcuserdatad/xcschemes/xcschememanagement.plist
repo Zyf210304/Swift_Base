@@ -130,6 +130,27 @@
 			<key>orderHint</key>
 			<integer>5</integer>
 		</dict>
+		<key>Swift 枚举 (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
+		<key>Swift 枚举 (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>15</integer>
+		</dict>
+		<key>Swift 枚举 (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
 		<key>Swift 运算符 循环 流程控制 (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
