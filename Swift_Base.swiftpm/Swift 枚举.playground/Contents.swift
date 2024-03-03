@@ -10,7 +10,7 @@ enum Week: String {
 // 定义整型枚举，原始值类型为 UInt8
 enum Number: UInt8 {
     // 如果原始值是整型，后续的 case 值会依次递增
-    case 壹 = 1, 贰, 叁, 肆, 伍, 陆
+    case 壹 = 1, 贰, 叁, 肆, 伍, 陆, 柒, 捌, 玖, 拾
 }
 
 print(Number.肆.rawValue) // 4

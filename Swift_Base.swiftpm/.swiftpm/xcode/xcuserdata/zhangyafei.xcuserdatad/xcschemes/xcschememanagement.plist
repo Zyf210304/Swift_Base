@@ -23,7 +23,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>7</integer>
+			<integer>9</integer>
 		</dict>
 		<key>Swift 基本数据类型 (Playground) 1.xcscheme</key>
 		<dict>
@@ -44,7 +44,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>7</integer>
 		</dict>
 		<key>Swift 字典 Dictionary类型 (Playground) 1.xcscheme</key>
 		<dict>
@@ -65,7 +65,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>3</integer>
+			<integer>2</integer>
 		</dict>
 		<key>Swift 字符串类型及常用方法 (Playground) 1.xcscheme</key>
 		<dict>
@@ -86,7 +86,28 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>10</integer>
+		</dict>
+		<key>Swift 属性与方法  (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
+		<key>Swift 属性与方法  (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+		<key>Swift 属性与方法  (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>11</integer>
 		</dict>
 		<key>Swift 数组及常用方法 (Playground) 1.xcscheme</key>
 		<dict>
@@ -128,7 +149,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>5</integer>
+			<integer>1</integer>
 		</dict>
 		<key>Swift 枚举 (Playground) 1.xcscheme</key>
 		<dict>
@@ -149,7 +170,28 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>13</integer>
+			<integer>4</integer>
+		</dict>
+		<key>Swift 结构体 类 (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>17</integer>
+		</dict>
+		<key>Swift 结构体 类 (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>18</integer>
+		</dict>
+		<key>Swift 结构体 类 (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>3</integer>
 		</dict>
 		<key>Swift 运算符 循环 流程控制 (Playground) 1.xcscheme</key>
 		<dict>
@@ -170,7 +212,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>6</integer>
 		</dict>
 		<key>Swift 高级运算符(溢出  重载 自定义) (Playground) 1.xcscheme</key>
 		<dict>
@@ -191,12 +233,12 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>10</integer>
+			<integer>5</integer>
 		</dict>
 		<key>Swift_Base.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>6</integer>
+			<integer>0</integer>
 		</dict>
 		<key>Swift集合 Set及常用方法 (Playground) 1.xcscheme</key>
 		<dict>
@@ -217,7 +259,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>8</integer>
 		</dict>
 	</dict>
 </dict>
